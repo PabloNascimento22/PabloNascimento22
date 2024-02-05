@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou o Pablo Nascimento,  sou programador front End apaixonadoo por tecnologia, estou aprendendo e criando projetos com:
+Eu sou o Pablo Nascimento,  estou no processo de formação Fullstack PRO do Dev Club, estou aprendendo e criando projetos com:
 <br>
 
 <div style="display: inline_block"><br>
